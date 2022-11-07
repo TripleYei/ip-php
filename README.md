@@ -1,6 +1,6 @@
 # ip-php
 
-Obtener la IP privada del equipo, se muestra en el navegador web
+Obtener la IP privada del equipo en windows, se muestra en el navegador web
 
 # Uso del script
 
